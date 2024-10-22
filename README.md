@@ -1,0 +1,1 @@
+This is an image classification code with Convolutional Neural Network (CNN) using PyTorch. This project is the final project in the Introduction to Computer Vision and Image Processing course on Coursera.
